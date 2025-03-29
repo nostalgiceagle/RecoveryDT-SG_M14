@@ -25,7 +25,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/samsung/a05s/device.mk)
 
 PRODUCT_DEVICE := a05s
-PRODUCT_NAME := omni_a05s
+PRODUCT_NAME := twrp_a05s
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-M145F
 PRODUCT_MANUFACTURER := samsung
